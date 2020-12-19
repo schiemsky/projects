@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headline {
+    font-size: 50px;
+}
+
+.standOutLink {
+    color:aquamarine;
+    font-size: 16px;
+}
+
+.sloganForApp {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.copyRight {
+    color:gray;
+    text-align: right;
+}
+
